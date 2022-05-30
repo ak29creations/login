@@ -1,4 +1,4 @@
 # login credentials
-Username:admin
+Username : admin
 
-Password:123456
+Password : 123456
